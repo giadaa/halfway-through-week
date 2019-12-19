@@ -1,0 +1,14 @@
+body {
+  font-family: "Courier New";
+  width: 400px;
+  padding-top: 40px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+#isHalf {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+
+}
